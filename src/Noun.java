@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class Noun {
+public class Noun {
+    private String word;
+
 }

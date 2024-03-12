@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class IrregularVerb {
+public class IrregularVerb extends Verb {
+
 }
